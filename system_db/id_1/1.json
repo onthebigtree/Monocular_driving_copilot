@@ -1,0 +1,1 @@
+{"distance_thresholds": {"low": 70, "medium": 40, "high": 25}, "min_distances": {"left": 10, "center": 62, "right": 54}, "warning_levels": {"left": "high", "center": "safe", "right": "safe"}}
